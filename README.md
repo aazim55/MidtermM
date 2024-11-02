@@ -36,3 +36,9 @@ ANSWERS
 2-`git merge` combines changes from one branch into the current branch, integrating the histories of both branches.
 3-After a rebase, the commit history is rewritten, appearing as if the rebased commits were made on top of the target branch’s latest commits. This creates a linear, cleaner history by avoiding merge commits, making it look like all changes happened sequentially.
 4-In the terminal, run `git branch` to see local branches and `git branch -r` to view remote branches. Remote branches usually have the prefix `origin/`.
+
+
+
+
+task4
+first commit in dev-feature
