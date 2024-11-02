@@ -42,3 +42,4 @@ ANSWERS
 
 task4
 first commit in dev-feature
+second commit in dev-feature
